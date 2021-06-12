@@ -50,7 +50,7 @@ And the `CustomStyledText` component will highlight all occurrences of terms whi
 
 ## Props
 
-You can pass all Text style props like `style` to the Text component that is used as a wrapper '[' ']'.
+You can pass all Text style props like `highlightStyle` to the Text component that is used as a wrapper '[' ']'.
 
 | Property           | Type          | Required? | Description                                                                                                                                         |
 | :----------------- | :------------ | :-------: | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
