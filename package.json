@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-styled-text",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "reactnative custom styled text",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -54,5 +54,6 @@
   "bugs": {
     "url": "https://github.com/bini0823/react-native-custom-styled-text/issues"
   },
-  "homepage": "https://github.com/bini0823/react-native-custom-styled-text#readme"
+  "homepage": "https://github.com/bini0823/react-native-custom-styled-text#readme",
+  "keywords": ["react-native", "style", "text", "style-text", "custom-text", "highlight-text", "styled", "custom-style-text"]
 }
